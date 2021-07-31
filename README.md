@@ -42,10 +42,8 @@ Please cite as follows if you are using the code in this repository in any manne
 ## Contents
 The contents of this repository are as follows:
 * `dmelodies_dataset`: submodule containing the dMelodies dataset along with pyTorch dataloader and other helper code
-* `dsprites-dataset`: submodule containing the dSprites dataset
 * `src`: contains all the source code related to the different model architectures and trainers
     * `dmelodiesvae`: model architecture and trainer for the dMelodiesCNN and RNN, also contains the FactorVAE model
-    * `dspritesvae`: model architecure, trainer for the dSpritesVAE, dataloader for the dSprites dataset
     * `utils`: module with model and training utility classes and methods
 * other scripts to train / test the models and generate plots
 
