@@ -1,0 +1,3 @@
+[submodule "dmelodies_dataset"]
+	path = dmelodies_dataset
+	url = https://github.com/ashispati/dmelodies_dataset.git
