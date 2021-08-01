@@ -4,7 +4,7 @@
 # dMelodies Controllability Experiments
 
 ## About
-This repository contains the source code for running the experiments accompanying our ISMIR 2021 paper on disentanglement versus controllability in the context of symbolic music generation using the [dMelodies](https://github.com/ashispati/dmelodies_dataset) dataset. Refer [this pdf](additional_results.pdf) for additional results not included in the main paper. 
+This repository contains the source code for running the experiments accompanying our ISMIR 2021 paper on disentanglement versus controllability in the context of symbolic music generation using the [dMelodies](https://github.com/ashispati/dmelodies_dataset) dataset. Refer [THIS](additional_results.pdf) for additional results not included in the main paper. 
 
 Please cite as follows if you are using the code in this repository in any manner.
 
