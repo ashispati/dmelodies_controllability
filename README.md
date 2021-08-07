@@ -11,7 +11,7 @@ Please cite as follows if you are using the code in this repository in any manne
 > Ashis Pati, Alexander Lerch. "Is Disentanglement enough? On Latent Representations for Controllable Music Generation”, in Proc. of the 22nd International Society for Music Information Retrieval Conference (ISMIR) , Online, 2021.
 
 ```
-@inproceedings{pati2020dmelodies,
+@inproceedings{pati2021disentanglement,
   title={Is Disentanglement enough? On Latent Representations for Controllable Music Generation},
   author={Pati, Ashis and Lerch, Alexander},
   booktitle={22nd International Society for Music Information Retrieval Conference (ISMIR)},
